@@ -1,4 +1,4 @@
-from Exceptions import OwnEmpty  # Asegúrate de tener esta excepción definida
+from Exceptions import OwnEmpty  
 
 class ColaMisiones:
     DEFAULT_CAPACITY = 100
